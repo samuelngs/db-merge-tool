@@ -1,0 +1,11 @@
+node_modules
+docs
+dist
+tmp
+logs
+log
+*.log
+*.sublime-workspace
+.DS_Store
+.vagrant
+backup

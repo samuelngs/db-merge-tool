@@ -1,0 +1,27 @@
+{
+    "database": {
+        "primary": {
+            "db_host": "",
+            "db_port": 3306,
+            "db_name": "",
+            "db_user": "",
+            "db_pass": ""
+        },
+        "minor": {
+            "db_host": "",
+            "db_port": 3306,
+            "db_name": "",
+            "db_user": "",
+            "db_pass": ""
+        },
+        "dist": {
+            "db_host": "",
+            "db_port": 3306,
+            "db_name": "",
+            "db_user": "",
+            "db_pass": ""
+        },
+        "export": "db_name",
+        "exclude": ["db_table(s)"]
+    }
+}
